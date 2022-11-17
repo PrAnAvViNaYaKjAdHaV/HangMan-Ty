@@ -2,7 +2,7 @@ body {
   box-sizing: border-box;
 }
 .main {
-  max-width: 50rem;
+  max-width: 82rem;
   display: flex;
   flex-direction: column;
   gap: 2rem;
